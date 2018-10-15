@@ -1,0 +1,7 @@
+C:\Users\yitze\source\repos\GC-AH Lab 2\GC-AH Lab 2\bin\Debug\GC-AH Lab 2.exe.config
+C:\Users\yitze\source\repos\GC-AH Lab 2\GC-AH Lab 2\bin\Debug\GC-AH Lab 2.exe
+C:\Users\yitze\source\repos\GC-AH Lab 2\GC-AH Lab 2\bin\Debug\GC-AH Lab 2.pdb
+C:\Users\yitze\source\repos\GC-AH Lab 2\GC-AH Lab 2\obj\Debug\GC-AH Lab 2.csprojAssemblyReference.cache
+C:\Users\yitze\source\repos\GC-AH Lab 2\GC-AH Lab 2\obj\Debug\GC-AH Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\yitze\source\repos\GC-AH Lab 2\GC-AH Lab 2\obj\Debug\GC-AH Lab 2.exe
+C:\Users\yitze\source\repos\GC-AH Lab 2\GC-AH Lab 2\obj\Debug\GC-AH Lab 2.pdb

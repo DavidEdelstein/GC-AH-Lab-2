@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC-AH Lab 2", "GC-AH Lab 2\GC-AH Lab 2.csproj", "{45A5FE78-A24D-4488-BABE-110607CA31CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A5FE78-A24D-4488-BABE-110607CA31CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A5FE78-A24D-4488-BABE-110607CA31CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A5FE78-A24D-4488-BABE-110607CA31CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A5FE78-A24D-4488-BABE-110607CA31CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C2585E3-FC3C-4034-9723-B3EDD6264FA7}
+	EndGlobalSection
+EndGlobal
